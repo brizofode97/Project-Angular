@@ -1,4 +1,4 @@
-# Project-Angular
+# Recueil sur Angular
 Use interceptor in Angular
 
 Les interceptors sont une fonctionnalité puissante du module Http Client qui permet de modifier les requetes et les reponses Http de manière centralisée. Ils interceptent les requetes sortantes et les reponses entrantes, nous permettant de les modifiées ou d'exécuter une logique spécifique.   
